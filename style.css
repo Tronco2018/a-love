@@ -1,0 +1,35 @@
+.love{
+    color: rgb(234, 234, 234);
+    position: relative;
+    left: 600px;
+}
+body{
+    background-image: url(you.png);
+    background-size: 120px;
+}
+.u{
+    color: rgb(255, 255, 255);
+    font-size: 30px;
+}
+.linea{
+    height: 4px;
+    width: 800px;
+    border-radius: 10px;
+    color: rgb(255, 255, 255);
+}
+
+.nut{
+    background-image: url(hug.jpg);
+    background-size: 670px;
+    width: 500px;
+    height: 500px;
+    font-size: 90px;
+    border-radius: 50px;
+}
+.rivelazione{
+    color: rgb(255, 255, 255);
+    font-size: 30px;
+}
+.div{
+    display: flex;
+}
